@@ -12,3 +12,7 @@ Resources, tools and interesting content
 
 # Blogs
 * [Creating Fluent animations with the Windows Community Toolkit](https://blog.prototypr.io/creating-fluent-animations-with-the-windows-community-toolkit-4a7430d7d937)
+
+# Other
+
+* [BuiltWithDot.NET - Lists projects built with the .NET Framework](https://builtwithdot.net/ | [WPF](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/WPF), [UWP](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/UWP)
