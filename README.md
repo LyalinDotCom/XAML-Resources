@@ -7,6 +7,8 @@ Resources, tools and interesting content
 * [ReactiveUI - MVVM Framework for WPF, UWP, Xamarin.Forms and WinForms](https://reactiveui.net/)
 * [MvvmCross - A cross-platform MVVM framework](https://github.com/MvvmCross/MvvmCross)
 * [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop)
+* [MaterialDesignInXamlToolkit for WPPF](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
+* [MahApps.Metrp - A toolkit for creating metro-style WPF applications](https://github.com/MahApps/MahApps.Metro)
 
 # Interesting Projects
 * [XAML Studio - Microsoft Garage Project](https://www.microsoft.com/en-us/p/xaml-studio/9ntls214tkmq)
