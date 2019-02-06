@@ -24,6 +24,14 @@ Resources, tools and interesting content
 * [Docs > Visual Studio > Designers > Design user interfaces > Design XAML in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/designers/designing-xaml-in-visual-studio?view=vs-2017) (Features XAML Designer, Blend and WPF getting started docs)
 * [Docs > Visual Studio > Debugging > How-to guides > Inspect data > Inspect XAML properties while debugging](https://docs.microsoft.com/en-us/visualstudio/debugger/inspect-xaml-properties-while-debugging?view=vs-2017)
 
+# Training
+
+* [Microsoft Development Training Courses](https://developer.microsoft.com/en-us/collective/learning/courses)
+
+Examples of WPF courses
+
+* [Windows Presentation Foundation: 1 Build Dramatic Desktop Applications](https://developer.microsoft.com/en-us/collective/learning/courses/windows-presentation-foundation-1-build-dramatic-desktop-applications)
+
 # Other
 
 * [BuiltWithDot.NET - Lists projects built with the .NET Framework](https://builtwithdot.net/) | [WPF](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/WPF), [UWP](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/UWP)
