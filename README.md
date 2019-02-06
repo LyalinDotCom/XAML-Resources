@@ -3,12 +3,21 @@ Resources, tools and interesting content
 
 # Open Source Frameworks
 
+MVVM Frameworks
+
 * [PRISM - MVVM Framework for WPF, UWP & Xamarin.Forms](https://prismlibrary.github.io/index.html)
 * [ReactiveUI - MVVM Framework for WPF, UWP, Xamarin.Forms and WinForms](https://reactiveui.net/)
 * [MvvmCross - A cross-platform MVVM framework](https://github.com/MvvmCross/MvvmCross)
+
+Helpers
+
 * [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop)
+
+UI Controls & Frameworks
+
 * [MaterialDesignInXamlToolkit for WPPF](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 * [MahApps.Metrp - A toolkit for creating metro-style WPF applications](https://github.com/MahApps/MahApps.Metro)
+* [Extended WPF Toolkit™ by Xceed is the number one collection of WPF controls, components and utilities for creating next generation Windows application](https://github.com/xceedsoftware/wpftoolkit)
 
 # Interesting Projects
 * [XAML Studio - Microsoft Garage Project](https://www.microsoft.com/en-us/p/xaml-studio/9ntls214tkmq)
