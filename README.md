@@ -5,7 +5,7 @@ Resources, tools and interesting content
 
 * [PRISM - MVVM Framework for WPF, UWP & Xamarin.Forms](https://prismlibrary.github.io/index.html)
 * [ReactiveUI - MVVM Framework](https://reactiveui.net/)
-* [GongSolutions.WPF.DragDrop] https://github.com/punker76/gong-wpf-dragdrop
+* [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop)
 
 # Interesting Projects
 * [XAML Studio - Microsoft Garage Project](https://www.microsoft.com/en-us/p/xaml-studio/9ntls214tkmq)
