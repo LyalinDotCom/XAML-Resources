@@ -28,3 +28,4 @@ Resources, tools and interesting content
 * [Projects Built with WPF on GitHub](https://github.com/topics/wpf)
 * [XAML Questions on Stackoverflow](https://stackoverflow.com/questions/tagged/xaml)
 * [XAML Discussion on Twitter](https://twitter.com/search?q=XAML&src=typd)
+* [XAML Discussion on Microsoft's Developer Community Portal](https://developercommunity.visualstudio.com/search.html?f=&type=question+OR+problem+OR+idea&type=question+OR+problem+OR+idea&c=&redirect=search%2Fsearch&sort=newest&q=XAML)
