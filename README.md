@@ -5,6 +5,7 @@ Resources, tools and interesting content
 
 * [PRISM - MVVM Framework for WPF, UWP & Xamarin.Forms](https://prismlibrary.github.io/index.html)
 * [ReactiveUI - MVVM Framework for WPF, UWP, Xamarin.Forms and WinForms](https://reactiveui.net/)
+* [MvvmCross - A cross-platform MVVM framework](https://github.com/MvvmCross/MvvmCross)
 * [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop)
 
 # Interesting Projects
