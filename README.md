@@ -16,3 +16,7 @@ Resources, tools and interesting content
 # Other
 
 * [BuiltWithDot.NET - Lists projects built with the .NET Framework](https://builtwithdot.net/) | [WPF](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/WPF), [UWP](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/UWP)
+
+# Docs
+
+* [Docs > Visual Studio > Designers > Design user interfaces > Design XAML in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/designers/designing-xaml-in-visual-studio?view=vs-2017) (Features XAML Designer, Blend and WPF getting started docs)
