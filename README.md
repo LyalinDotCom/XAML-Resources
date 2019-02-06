@@ -24,3 +24,4 @@ Resources, tools and interesting content
 # Other
 
 * [BuiltWithDot.NET - Lists projects built with the .NET Framework](https://builtwithdot.net/) | [WPF](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/WPF), [UWP](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/UWP)
+* [Projects Built with WPF on GitHub](https://github.com/topics/wpf)
