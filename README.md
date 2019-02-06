@@ -10,13 +10,17 @@ Resources, tools and interesting content
 # Interesting Projects
 * [XAML Studio - Microsoft Garage Project](https://www.microsoft.com/en-us/p/xaml-studio/9ntls214tkmq)
 
-# Blogs
+# Community Blogs
 * [Creating Fluent animations with the Windows Community Toolkit](https://blog.prototypr.io/creating-fluent-animations-with-the-windows-community-toolkit-4a7430d7d937)
 
-# Other
-
-* [BuiltWithDot.NET - Lists projects built with the .NET Framework](https://builtwithdot.net/) | [WPF](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/WPF), [UWP](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/UWP)
+# Team Blogs
+* [UI development made easier with XAML Edit & Continue (April 6 2016)](https://blogs.msdn.microsoft.com/visualstudio/2016/04/06/ui-development-made-easier-with-xaml-edit-continue/)
 
 # Docs
 
 * [Docs > Visual Studio > Designers > Design user interfaces > Design XAML in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/designers/designing-xaml-in-visual-studio?view=vs-2017) (Features XAML Designer, Blend and WPF getting started docs)
+* [Docs > Visual Studio > Debugging > How-to guides > Inspect data > Inspect XAML properties while debugging](https://docs.microsoft.com/en-us/visualstudio/debugger/inspect-xaml-properties-while-debugging?view=vs-2017)
+
+# Other
+
+* [BuiltWithDot.NET - Lists projects built with the .NET Framework](https://builtwithdot.net/) | [WPF](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/WPF), [UWP](https://builtwithdot.net/0/Desktop_app/all/all/all/all/none/true/UWP)
