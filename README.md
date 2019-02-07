@@ -15,8 +15,8 @@ Helpers
 
 UI Controls & Frameworks
 
-* [MaterialDesignInXamlToolkit for WPPF](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
-* [MahApps.Metrp - A toolkit for creating metro-style WPF applications](https://github.com/MahApps/MahApps.Metro)
+* [MaterialDesignInXamlToolkit for WPF](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
+* [MahApps.Metro - A toolkit for creating metro-style WPF applications](https://github.com/MahApps/MahApps.Metro)
 * [Extended WPF Toolkit™ by Xceed is the number one collection of WPF controls, components and utilities for creating next generation Windows application](https://github.com/xceedsoftware/wpftoolkit)
 
 # Interesting Projects
