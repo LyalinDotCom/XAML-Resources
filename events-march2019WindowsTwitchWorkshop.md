@@ -1,5 +1,5 @@
 # Windows Desktop Developer Twitch Workshop
-March 14th 2019, hosted by Jeff Fritz
+**March 14th 2019, hosted by Jeff Fritz**
 
 Watch live starting at 8AM PT on the [Visual Studio Twitch channel](https://www.twitch.tv/visualstudio/).
 
