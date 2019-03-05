@@ -1,6 +1,10 @@
 # Windows Desktop Developer Twitch Workshop
 March 14th 2019, hosted by Jeff Fritz
 
+Watch live starting at 8AM PT on the [Visual Studio Twitch channel](https://www.twitch.tv/visualstudio/).
+
+If you missed this session live, you can see this content on-demand after the event is completed on our [Visual Studio YouTube channel](https://www.youtube.com/visualstudio)
+
 ## Full Agenda - March 14th 2019
 
 ### 8AM - 9AM  | Lap Around Windows Developer XAML Tooling for WPF & UWP
