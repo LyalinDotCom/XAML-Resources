@@ -28,7 +28,7 @@ Speaker: Olia Gavrysh
 .NET Core 3 is coming and with it support for building WinForms and WPF applications for Windows Desktop. In this Twitch I will show on example how to port a WinForms\WPF application from .NET Framework to .NET Core. We'll cover reasons for porting, useful tools and best practices. I'll show how you can keep using the WinForms designer in Visual Studio even though it's not yet available for .NET Core projects.
 
 ### 12PM – 1PM | Modernizing your existing Windows Desktop UIs with XAML Islands
-Speaker: Ricardo Minguez Pablos (RIDO)
+Speaker: Miguel Ramos
 
 XAML Islands is the first big step toward a developer experience that will enable WinForms, WPF, and Native Win32 developers will be able to use all the innovation that Windows has done in the User Experience in the last years. With XAML Islands, developers can access the more capable, flexible, powerful UWP XAML controls regardless which UI stack they use. Windows Forms, WPF, or native Win32 developers will be able to create more productive and deeply engaging experiences with Microsoft’s Fluent design, and they can do it as the own pace, modernizing their apps as needed, just adding the pieces of UWP XAML that they need.
 
