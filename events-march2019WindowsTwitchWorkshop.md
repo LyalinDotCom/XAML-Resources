@@ -18,7 +18,6 @@ In this session we want to make you as a XAML developer more productive. If you'
 * [Visual Studio Extensions - IntelliCode - including XAML support](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
 * [Docs - Blend for Visual Studio overview](https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2017)
 
-
 ### 9AM – 10AM | Building Composite .NET Core 3.0 Applications with Prism 
 Speaker: Brian Lagunas (Microsoft MVP) 
 
@@ -37,6 +36,9 @@ Tune in for a session with Geoff to learn about reactive programming that you ca
 Speaker: Olia Gavrysh 
 
 .NET Core 3 is coming and with it support for building WinForms and WPF applications for Windows Desktop. In this Twitch I will show on example how to port a WinForms\WPF application from .NET Framework to .NET Core. We'll cover reasons for porting, useful tools and best practices. I'll show how you can keep using the WinForms designer in Visual Studio even though it's not yet available for .NET Core projects.
+
+* [Blog - Announcing .NET Core 3 Preview 1 and Open Sourcing Windows Desktop Frameworks](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-1-and-open-sourcing-windows-desktop-frameworks/)
+* [Blog - How to port desktop applications to .NET Core 3.0](https://devblogs.microsoft.com/dotnet/how-to-port-desktop-applications-to-net-core-3-0/)
 
 ### 12PM – 1PM | Modernizing your existing Windows Desktop UIs with XAML Islands
 Speaker: Miguel Ramos
