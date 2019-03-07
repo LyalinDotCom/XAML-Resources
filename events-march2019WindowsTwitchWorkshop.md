@@ -12,15 +12,24 @@ Speakers: Daniel Jacobson & Dmitry Lyalin
 
 In this session we'll explore Visual Studio 2019 XAML tooling for developers building WPF and UWP applications. Some demos will include features such as XAML edit & continue, IntelliCode for XAML and other improvements in the XAML editor and Blend. No matter if you're a XAML pro or new to .NET desktop development, we hope you walk away with something new.
 
+* [Blog - UI development made easier with XAML Edit & Continue](https://devblogs.microsoft.com/visualstudio/ui-development-made-easier-with-xaml-edit-continue/)
+* [Docs - Inspect XAML properties while debugging (Live Visual Tree, Live Property Explorer, In-app Toolbar)](https://docs.microsoft.com/en-us/visualstudio/debugger/inspect-xaml-properties-while-debugging?view=vs-2017)
+* [Docs - Create a UI by using XAML Designer in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2017)
+* [Docs - Blend for Visual Studio overview](https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2017)
+
 ### 9AM – 10AM | Building Composite .NET Core 3.0 Applications with Prism 
 Speaker: Brian Lagunas (Microsoft MVP) 
 
 In this session you will learn how to design and build Windows Presentation Foundation (WPF) desktop applications using loosely coupled components that can evolve independently but which can be easily and seamlessly integrated into the overall application. This session concentrates on the basic concepts required to build a composite .NET Core 3 application with the Prism framework which includes the regions, modules, view composition, and different techniques for communicating between loosely couple components.  Various development patterns and technologies will also be discussed including Inversion of Control (IoC), Dependency Injection (DI), commanding, event aggregation, and MVVM (Model-View-ViewModel).
 
+* [Prism Library](http://prismlibrary.github.io/)
+
 ### 10AM – 11AM | Reactive MVVM on the .NET Platform
 Speaker: Geoffrey Huntley (Microsoft MVP) 
 
 Tune in for a session with Geoff to learn about reactive programming that you can use with your next WPF or WinForms project. Reactive is a paradigm that allows you to express the idea around a feature in one readable place, abstract mutable state away from your user interfaces and improve the testability of your application.
+
+* [ReactiveUI](https://reactiveui.net/)
 
 ### 11AM – 12PM | Porting WinForms and WPF applications to .NET Core 3.0
 Speaker: Olia Gavrysh 
