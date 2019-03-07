@@ -37,7 +37,11 @@ Speaker: James Montemagno
 
 Interested in building mobile apps for iOS and Android? Come see how to leverage your existing .NET and XAML skills to build beautiful native mobile apps with Xamarin inside of Visual Studio! James Montemagno will walk us through what Xamarin is, how to build apps with XAML, and how to access native features all from C#.
 
+* [Docs - Get Started with Xamarin](https://docs.microsoft.com/en-us/xamarin/get-started/)
+
 ### 2PM – 3PM | DevOps for Desktop Applications
 Speakers: Abel Wang & Ricardo Minguez Pablos (RIDO) 
 
 Client applications have unique requirements for DevOps, this session will show you how to use Azure to deploy MSIX based applications in an efficient and secure way. We will cover branching strategies, versioning, packaging and automatic deployment using Visual Studio App Center and Azure Pipelines. Learn about what we have in store here, and help us help you by providing feedback on current and future plans.
+
+* [Azure Pipelines - CI/CD platform for any app or platform](https://azure.microsoft.com/en-us/services/devops/pipelines/)
