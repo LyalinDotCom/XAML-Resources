@@ -43,6 +43,10 @@ Speaker: Miguel Ramos
 
 XAML Islands is the first big step toward a developer experience that will enable WinForms, WPF, and Native Win32 developers will be able to use all the innovation that Windows has done in the User Experience in the last years. With XAML Islands, developers can access the more capable, flexible, powerful UWP XAML controls regardless which UI stack they use. Windows Forms, WPF, or native Win32 developers will be able to create more productive and deeply engaging experiences with Microsoft’s Fluent design, and they can do it as the own pace, modernizing their apps as needed, just adding the pieces of UWP XAML that they need.
 
+* [Blog - XAML Islands – A deep dive – Part 1](https://blogs.windows.com/buildingapps/2018/11/02/xaml-islands-a-deep-dive-part-1/)
+* [Blog - XAML Islands – A deep dive – Part 2](https://blogs.windows.com/buildingapps/2018/11/08/xaml-islands-a-deep-dive-part-2/)
+* [Blog - Calling Windows 10 APIs From a Desktop Application](https://blogs.windows.com/buildingapps/2017/01/25/calling-windows-10-apis-desktop-application/)
+
 ### 1PM – 2PM | Introduction to Xamarin.Forms for the XAML developer
 Speaker: James Montemagno 
 
