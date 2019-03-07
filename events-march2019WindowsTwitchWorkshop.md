@@ -10,7 +10,7 @@ If you missed this session live, you can see this content on-demand after the ev
 ### 8AM - 9AM  | Lap Around Windows Developer XAML Tooling for WPF & UWP
 Speakers: Daniel Jacobson & Dmitry Lyalin
 
-In this session we'll explore capabilities of Visual Studio 2019 XAML tooling for those developers targeting WPF or UWP frameworks. Demos will include features such as XAML edit & continue, IntelliCode for XAML and other improvements in XAML editor and Blend. No matter if you're a XAML pro or new to .NET desktop development, we hope you walk away with something new.
+In this session we'll explore Visual Studio 2019 XAML tooling for developers building WPF and UWP applications. Some demos will include features such as XAML edit & continue, IntelliCode for XAML and other improvements in the XAML editor and Blend. No matter if you're a XAML pro or new to .NET desktop development, we hope you walk away with something new.
 
 ### 9AM – 10AM | Building Composite .NET Core 3.0 Applications with Prism 
 Speaker: Brian Lagunas (Microsoft MVP) 
