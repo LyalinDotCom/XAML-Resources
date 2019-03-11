@@ -21,6 +21,7 @@ UI Controls & Frameworks
 
 # Interesting Projects
 * [XAML Studio - Microsoft Garage Project](https://www.microsoft.com/en-us/p/xaml-studio/9ntls214tkmq)
+* [Fluent XAML Theme Editor](https://github.com/Microsoft/fluent-xaml-theme-editor)
 
 # Community Blogs
 * [Creating Fluent animations with the Windows Community Toolkit](https://blog.prototypr.io/creating-fluent-animations-with-the-windows-community-toolkit-4a7430d7d937)
