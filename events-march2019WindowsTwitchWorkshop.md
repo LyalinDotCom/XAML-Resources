@@ -13,6 +13,7 @@ Speakers: Daniel Jacobson & Dmitry Lyalin
 In this session we want to make you as a XAML developer more productive. If you're building WPF or UWP applications, join us to learn about tools that can maximize your output when building XAML apps. We'll be using Visual Studio 2019 to explore some of our most powerful XAML tooling, including XAML Hot Reload (previously called "XAML Edit & Continue"), IntelliCode for XAML and other improvements in the XAML Editor. If you're a XAML pro or new to XAML, we hope you walk away as a more productive developer.
 
 * [Blog - UI development made easier with XAML Edit & Continue](https://devblogs.microsoft.com/visualstudio/ui-development-made-easier-with-xaml-edit-continue/)
+* [Docs - Write and debug running XAML code with XAML hot reload in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/debugger/xaml-hot-reload?view=vs-2017)
 * [Docs - Inspect XAML properties while debugging (Live Visual Tree, Live Property Explorer, In-app Toolbar)](https://docs.microsoft.com/en-us/visualstudio/debugger/inspect-xaml-properties-while-debugging?view=vs-2017)
 * [Docs - Create a UI by using XAML Designer in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2017)
 * [Visual Studio Extensions - IntelliCode - including XAML support](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
