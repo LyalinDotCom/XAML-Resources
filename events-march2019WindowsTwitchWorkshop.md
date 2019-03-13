@@ -18,6 +18,7 @@ In this session we want to make you as a XAML developer more productive. If you'
 * [Docs - Create a UI by using XAML Designer in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2017)
 * [Visual Studio Extensions - IntelliCode - including XAML support](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
 * [Docs - Blend for Visual Studio overview](https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2017)
+* [Samples - MSIX Catalog (WPF)](https://github.com/ridomin/msix-catalog)
 
 ### 9AM – 10AM | Building Composite .NET Core 3.0 Applications with Prism 
 Speaker: Brian Lagunas (Microsoft MVP) 
