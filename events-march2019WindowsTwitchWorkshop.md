@@ -7,6 +7,12 @@ If you missed this session live, you can see this content on-demand after the ev
 
 Tip: You can find this page again later by remembering this shorter URL: [http://aka.ms/WindowsTwitch32019](http://aka.ms/WindowsTwitch32019)
 
+## On-demand Videos
+
+Missed this event? no problem! you can find our **on-demand** workshop here: [https://youtu.be/qjeq5-4KKG0](https://youtu.be/qjeq5-4KKG0). 
+
+If you want to jump to a specific session, see the timecodes below.
+
 ## Full Agenda - March 14th 2019
 
 ### 8AM - 9AM  | Lap Around Windows Developer XAML Tooling for WPF & UWP
