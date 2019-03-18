@@ -28,7 +28,7 @@ In this session we want to make you as a XAML developer more productive. If you'
 * [Visual Studio Extensions - IntelliCode - including XAML support](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
 * [Samples - MSIX Catalog (WPF)](https://github.com/ridomin/msix-catalog)
 
-### 9AM – 10AM | [Building Composite .NET Core 3.0 Applications with Prism]()https://www.youtube.com/watch?v=qjeq5-4KKG0&t=4646s)
+### 9AM – 10AM | [Building Composite .NET Core 3.0 Applications with Prism](https://www.youtube.com/watch?v=qjeq5-4KKG0&t=4646s)
 Speaker: Brian Lagunas (Microsoft MVP) 
 
 In this session you will learn how to design and build Windows Presentation Foundation (WPF) desktop applications using loosely coupled components that can evolve independently but which can be easily and seamlessly integrated into the overall application. This session concentrates on the basic concepts required to build a composite .NET Core 3 application with the Prism framework which includes the regions, modules, view composition, and different techniques for communicating between loosely couple components.  Various development patterns and technologies will also be discussed including Inversion of Control (IoC), Dependency Injection (DI), commanding, event aggregation, and MVVM (Model-View-ViewModel).
