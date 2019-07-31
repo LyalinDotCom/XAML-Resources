@@ -33,7 +33,7 @@ UI Controls & Frameworks
 
 * [Visual Studio > Designers > Design user interfaces > Design XAML in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/designers/designing-xaml-in-visual-studio?view=vs-2017) (Features XAML Designer, Blend and WPF getting started docs)
 * [Visual Studio > Debugging > How-to guides > Inspect data > Inspect XAML properties while debugging](https://docs.microsoft.com/en-us/visualstudio/debugger/inspect-xaml-properties-while-debugging?view=vs-2017)
-* [UWP > Develop: Tools for profiling and performance (XAML UI Responsiveness Tools)](https://docs.microsoft.com/en-us/windows/uwp/debug-test-perf/tools-for-profiling-and-performance]
+* [UWP > Develop: Tools for profiling and performance (XAML UI Responsiveness Tools)](https://docs.microsoft.com/en-us/windows/uwp/debug-test-perf/tools-for-profiling-and-performance)
 * [Visual Studio > Debugging > How-to guides > Pause code and continue: Write and debug running XAML code with XAML hot reload in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/debugger/xaml-hot-reload?view=vs-2019)
 
 ## Upcoming Docs:
